@@ -1,41 +1,77 @@
-# The Curriculum Vitae Template
+# Raevin Yuri P. Ancheta
+I'm a Professional Valorant Player and a BS-eSports student in Lyceum of the Philippines University Manila
 
-You are a fantastic developer. Keep your CV on GitHub. Host it on GitHub Pages. Have both HTML and PDF versions automatically generated and consistent.
+## Personal Information
 
-## What does this project do?
+Address: #9, Napaset, Luna, La Union, Philippines
 
-* Helps you to manage your CV as a web app (HTML + CSS + JS).
-* Automatically generates and publishes HTML and PDF version on every push to `main`.
+Date of Birth: July 07, 2003
 
-Demo: [http://sneas.github.io/cv-template](http://sneas.github.io/cv-template).
+Place of Birth: California, USA
 
-Real world example: [http://sneas.github.io/cv](http://sneas.github.io/cv).
+Age: 19
 
-## Motivation
+Sex: Male
 
-GitHub Pages is probably the best place developer could store their CV. Giving a potential employer a link to your CV stored on GitHub shows your intense desire for automation and stands you out.
+Status: Single
 
-The idea behind **The Curriculum Vitae Template** is to provide anyone with a quick solution for creating and managing CVs (both HTML and PDF versions) with the help of GitHub.
 
-## Installation
+## Educational Background  
 
-1. Create a new repo out of this template by clicking [this link](https://github.com/sneas/cv-template/generate).
-1. Clone the newly created repo.
-1. Install project dependencies with `npm install`.
-1. Run `npm run deploy` to initialize `gh-pages`. This is a one time action. Further deployments will be initiated by GitHub Actions on every push to `main`.
+Junior High School(2016-2020) Lorma Colleges Special Science High School
 
-## Usage
+Senior High School(2020-2022)- Lorma Colleges Senior High School
 
-1. Start local development server with `npm start`.
-1. Update contents of `src` folder to fit your needs. This item is explained [below](#update-contents).
-1. Commit and push your changes.
-1. GitHub Actions will automatically build the latest version and deploy it to GitHub Pages.
-1. Open `http://your-username.github.io/your-cv-repo`.
+College(2022-Present)- Lyceum of the Philippines University Manila
 
-### Update contents
+## Achievements
+Valorant Professional Player- 2021 - Present
 
-The project uses [HandlebarsJS](https://github.com/wycats/handlebars.js/) as a template engine.
+VCT Philippine Open Qualifiers 2021- Top 16
 
-The main HTML template is located in [src/templates/index.html](src/templates/index.html). Metadata for the template could be found in [src/metadata/metadata.js](src/metadata/metadata.js).
+Ratatat G League-Champion
 
-Don't forget to update [src/assets/favicon.ico](src/assets/favicon.ico). You can generate a new favicon out of your photo with [icoconvert.com](http://icoconvert.com/).
+Mavi Nov Soul- 2nd Place
+
+Dynasty JBL Week -7 3rd-4th 
+
+PC worx 4th leg -3rd-4th
+
+PC worx 5th leg -quarter finalist
+
+Asurai S# quarter- finalist
+
+Tankz S2 Ama tour -quarter finalist
+
+Camaraderie tourna -quarter finalist
+
+Valorant PH rambulan- quarter finalist
+
+TNC Balagtas -1st runner up
+
+VCT Sea Open Qualifiers 2021- Top 16
+
+## Skills
+Hardworking
+
+Effective Communication
+
+Creative
+
+Leadership
+
+
+## Interests
+Gaming
+
+Sports
+
+Music
+
+
+## Contacts
+Email: Raevin.ancheta@lpunetwork.edu.ph
+
+Phone Number: 09615487842
+
+
